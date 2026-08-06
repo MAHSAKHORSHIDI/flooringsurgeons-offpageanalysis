@@ -24,7 +24,7 @@
      2. Copy the printed hex string into PASSWORD_HASH below.
    -------------------------------------------------------------------------- */
 
-const PASSWORD_HASH = "937a741e188106d0fa6cf66398af672caa9d0b30ded4a3d96bba60d3f68e78e"; // default: "flooring2026"
+const PASSWORD_HASH = "937a741e188106d0fa6cf66398af672caa9d0b30ded4a3d96bba60d3f68e78e1"; // default: "flooring2026"
 const SESSION_KEY = "fs_audit_unlocked";
 
 async function sha256Hex(text) {
